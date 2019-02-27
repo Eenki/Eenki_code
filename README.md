@@ -1,2 +1,1 @@
-# Eenki_code
-parts of codes
+./shadowsocks.sh 2>＆1 | tee /etc/shadowsock.log
